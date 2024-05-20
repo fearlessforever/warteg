@@ -22,6 +22,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   - in VPS
     - `npm run build`
     - `pm2 start pm2.config.json`
+  - in SERVERLESS
 
 ## Development server
 
